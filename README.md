@@ -197,7 +197,7 @@ Timestamp;Lab;Service;PID;IP;User;EventCode;Message
 
 L'application est déployée sur Streamlit Community Cloud et accessible publiquement.
 
-**URL de l'application :** [À compléter après déploiement]
+**URL de l'application :** https://ssh-monitor-voldemort.streamlit.app
 
 ### Déployer Votre Propre Instance
 
