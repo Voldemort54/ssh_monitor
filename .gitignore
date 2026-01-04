@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Cache Streamlit
+.streamlit/
+
+# Données sensibles (si applicable)
+*.csv
+
+# Fichiers volumineux
+*.mmdb
+GeoLite2-City.mmdb
+
+# Cache de l'application
+cache/
