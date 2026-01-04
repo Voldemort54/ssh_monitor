@@ -13,6 +13,7 @@ __pycache__/
 
 # Données sensibles (si applicable)
 *.csv
+Rapport_apprentissage.md
 
 # Fichiers volumineux
 *.mmdb
